@@ -1,0 +1,24 @@
+{
+  "name": "ionictest",
+  "version": "1.0.0",
+  "description": "This is Test Directory for learning ionic",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushnishanteu/ionic.git"
+  },
+  "author": "Piyush nishant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushnishanteu/ionic/issues"
+  },
+  "homepage": "https://github.com/piyushnishanteu/ionic#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
